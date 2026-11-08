@@ -1,4 +1,3 @@
-# buildcodeswithsoumya
 # 💫 About Me:
 👋 About Me<br><br>Hi, I'm Saumya Kesharwani, an aspiring Full Stack Developer and AI/ML enthusiast passionate about building innovative and impactful solutions.<br>I enjoy exploring new technologies, developing real-world projects, and solving problems through programming. Currently, <br><br>I'm enhancing my skills in the MERN stack, Python, and Machine Learning while continuously learning and growing as a developer. 🚀
 
