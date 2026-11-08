@@ -1,24 +1,90 @@
-# 💫 About Me:
-👋 About Me<br><br>Hi, I'm Saumya Kesharwani, an aspiring Full Stack Developer and AI/ML enthusiast passionate about building innovative and impactful solutions.<br>I enjoy exploring new technologies, developing real-world projects, and solving problems through programming. Currently, <br><br>I'm enhancing my skills in the MERN stack, Python, and Machine Learning while continuously learning and growing as a developer. 🚀
+<!-- Pink-themed GitHub profile README for buildcodeswithsaumya -->
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:EF93C4,100:FF69B4&amp;text=Saumya%20Kesharwani&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:F8BBD0,100:EF93C4&amp;text=Saumya%20Kesharwani&amp;fontColor=7A2354&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:F8BBD0,100:EF93C4&amp;text=Saumya%20Kesharwani&amp;fontColor=7A2354&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn" alt="Pink gradient banner introducing Saumya Kesharwani">
+  </picture>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unique_notyou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saumya Kesharwani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saumyakesharwani28092006@gmail.com) 
+<h1 align="center">Hey there, I'm Saumya Kesharwani 👋</h1>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=buildcodeswithsaumya&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=buildcodeswithsaumya&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=buildcodeswithsaumya&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;pause=1000&amp;color=EF93C4&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;Building+innovative%2C+impactful+solutions" alt="Aspiring Full Stack Developer | AI/ML Enthusiast | Building innovative, impactful solutions">
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <a href="https://github.com/buildcodeswithsaumya?tab=followers"><img src="https://img.shields.io/github/followers/buildcodeswithsaumya?style=for-the-badge&amp;label=Followers&amp;logo=github&amp;logoColor=FFFFFF&amp;color=EF93C4" alt="GitHub followers"></a>
+  <a href="https://github.com/buildcodeswithsaumya?tab=stars"><img src="https://img.shields.io/github/stars/buildcodeswithsaumya?style=for-the-badge&amp;label=Stars&amp;logo=github&amp;logoColor=FFFFFF&amp;color=F8BBD0" alt="GitHub stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=buildcodeswithsaumya&amp;style=for-the-badge&amp;color=FF69B4&amp;label=PROFILE+VIEWS" alt="Profile views">
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=buildcodeswithsaumya&limit=5&theme=nord&combine_all_yearly_contributions=true)
+## About Me
 
----
-[![](https://komarev.com/ghpvc/?username=buildcodeswithsaumya&icon=0&color=0)](https://visitcount.itsvg.in)
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="middle">
+      <p>I'm an aspiring Full Stack Developer and AI/ML enthusiast who enjoys turning ideas into useful, polished products. I like exploring new technologies, building real-world projects, and solving problems through code.</p>
+      <p>Right now, I'm strengthening my MERN stack skills, working with Python, and learning more about machine learning. I learn best by building, experimenting, and sharing what I make.</p>
+      <p><strong>Currently focused on:</strong></p>
+      <ul>
+        <li>Building full-stack web experiences</li>
+        <li>Exploring Python, data, and machine learning</li>
+        <li>Growing through consistent hands-on projects</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/buildcodeswithsaumya.png" width="220" alt="Saumya Kesharwani's GitHub avatar">
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,sklearn,git,github,vscode&amp;perline=7" alt="HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB, Python, scikit-learn, Git, GitHub, and VS Code">
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=buildcodeswithsaumya&amp;background=0D1117&amp;border=EF93C4&amp;ring=FF69B4&amp;fire=FF69B4&amp;currStreakNum=F8BBD0&amp;sideNums=F8BBD0&amp;currStreakLabel=EF93C4&amp;sideLabels=EF93C4&amp;dates=EF93C4&amp;hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=buildcodeswithsaumya&amp;background=FFF7FB&amp;border=EF93C4&amp;ring=FF69B4&amp;fire=FF69B4&amp;currStreakNum=9D3B70&amp;sideNums=9D3B70&amp;currStreakLabel=9D3B70&amp;sideLabels=9D3B70&amp;dates=EF93C4&amp;hide_border=true" alt="Saumya's GitHub contribution streak">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=buildcodeswithsaumya&amp;bg_color=0D1117&amp;color=F8BBD0&amp;line=FF69B4&amp;point=EF93C4&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildcodeswithsaumya&amp;bg_color=FFF7FB&amp;color=9D3B70&amp;line=FF69B4&amp;point=EF93C4&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity graph in a pink theme">
+  </picture>
+</p>
+
+## Contribution Snake
+
+<!-- Set up Platane/snk in .github/workflows/snake.yml to publish these SVGs to the output branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildcodeswithsaumya/buildcodeswithsaumya/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/buildcodeswithsaumya/buildcodeswithsaumya/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake moving through Saumya's GitHub contribution grid">
+  </picture>
+</p>
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saumya-kesharwani-5a3786330/"><img src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF" alt="LinkedIn"></a>
+  <!-- Replace the four TODO handles below with your profile URLs before publishing. -->
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-Follow-EF93C4?style=for-the-badge&amp;logo=x&amp;logoColor=FFFFFF" alt="X"></a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/"><img src="https://img.shields.io/badge/Instagram-Follow-EF93C4?style=for-the-badge&amp;logo=instagram&amp;logoColor=FFFFFF" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK_HANDLE"><img src="https://img.shields.io/badge/TikTok-Follow-EF93C4?style=for-the-badge&amp;logo=tiktok&amp;logoColor=FFFFFF" alt="TikTok"></a>
+  <a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-Subscribe-EF93C4?style=for-the-badge&amp;logo=youtube&amp;logoColor=FFFFFF" alt="YouTube"></a>
+  <a href="mailto:saumyakesharwani28092006@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EF93C4?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF" alt="Email Saumya"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=130&amp;color=0:EF93C4,100:FF69B4" width="100%" alt="Pink waving footer">
+</p>
+<!-- 
