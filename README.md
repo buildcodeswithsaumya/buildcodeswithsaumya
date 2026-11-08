@@ -2,6 +2,10 @@
 
 <p align="center">
   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <img alt="Saumya Kesharwani" src="art/header-light.png">
+</picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:EF93C4,100:FF69B4&amp;text=Saumya%20Kesharwani&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn">
     <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:F8BBD0,100:EF93C4&amp;text=Saumya%20Kesharwani&amp;fontColor=7A2354&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn">
     <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=240&amp;color=0:F8BBD0,100:EF93C4&amp;text=Saumya%20Kesharwani&amp;fontColor=7A2354&amp;fontSize=42&amp;fontAlignY=36&amp;desc=Aspiring%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&amp;descAlignY=56&amp;descSize=16&amp;animation=fadeIn" alt="Pink gradient banner introducing Saumya Kesharwani">
